@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About me:
 - O que é?<br><br>É uma organização estudantil que está associada à Universidade Federal do Ceará e tem como objetivo elaborar<br>projetos nas áreas de engenharia e exatas em prol da comunidade acadêmica e da comunidade em geral.<br><br>- Missão<br><br>Promover atividades de inovação tecnológica, humanitárias e educativas visando contribuir para o<br>crescimento pessoal, profissional e acadêmico da comunidade em geral. Assim, incentivando a excelência,<br>fortalecendo o vínculo com o mercado de trabalho e agregando valor à universidade e ao IEEE.<br><br>- Visão<br><br>Até o final de 2024, ser reconhecido, por meio de premiações da Seção Nordeste, por sua excelência<br>em conhecimentos técnicos, bem como aspectos humanitários e contato com as empresas, de forma a<br>agregar conhecimento e incentivar a interdisciplinaridade dentro do Ramo Estudantil.<br>
 
 
